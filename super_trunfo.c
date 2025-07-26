@@ -55,7 +55,7 @@ int main(){ // Definição das variáveis
     printf("Código: %c%s\n", estado1, codigoCarta1); // "%c%s" une a informação anterior com a atual, formando o código da carta, semelhante a uma concatenação.
     printf("Cidade: %s\n", cidade1);
     printf("População: %d\n", populacao1);
-    printf("Área: %.2f km²\n", area1); // %.2f limita em duas casas decimais
+    printf("Área: %.2f km²\n", area1); // "%.2f" limita em duas casas decimais
     printf("PIB: %.2f milhões de reais\n", PIB1);
     printf("Quantidade de pontos turísticos: %d\n", pontoTuristico1);
     printf("\n"); // Pula uma linha para deixar a leitura mais organizada

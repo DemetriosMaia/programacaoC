@@ -7,7 +7,7 @@ int main(){ // Definição das variáveis
     float area1, PIB1, densidade1, perCapita1, area2, PIB2, densidade2, perCapita2, superPoder1, superPoder2;
     
     // Nessa primeira parte, o usuário digita os dados da primeira cidade
-    printf("Bem vindo ao Super Trunfo: versão Novato!\nPara iniciarmos, digite uma letra que representa o Estado (de A a H):\n");
+    printf("Bem vindo ao Super Trunfo: versão MESTRE!\nPara iniciarmos, digite uma letra que representa o Estado (de A a H):\n");
     scanf("%c", &estado1);
     
     printf("Agora, digite o código da carta (só vale de 01 a 04):\n");
